@@ -3,7 +3,7 @@ class Palindrome
 {
     public static void main(String[] args)
     {
-        int n=999;
+        int n=123;
         int rem=0;
         int rev=0;
         int temp=n;
